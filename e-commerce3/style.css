@@ -1,0 +1,16 @@
+.head{
+    background-color: lightgrey;
+    font-size: 24px;
+}
+.icon{
+    float: right;
+}
+.product{
+    width: 100%;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
